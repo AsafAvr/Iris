@@ -1,10 +1,10 @@
 Metric,CONTROL,SUPP
-Sample Size,252,50
+Sample Size,247,47
 Mean Seeds,9.01,11.72
 Median Seeds,0.00,5.00
 Standard Deviation,14.02,16.59
 Minimum,0,0
 Maximum,71,58
-Mann-Whitney U p-value,nan,-
-KS-test p-value,nan,-
+Mann-Whitney U p-value,0.1028,-
+KS-test p-value,0.1317,-
 Cohen's d effect size,0.188,-
